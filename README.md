@@ -1,20 +1,14 @@
-# Welcome to BuuOS Version 1.0! 🎮
+🎮 **BuuOS** is a gaming-focused desktop environment inspired by the charm of classic Nintendo consoles, especially the Nintendo 3DS.
 
-Welcome to BuuOS, your new gaming environment! 
+Designed to bring your games, apps, and customisable characters together, BuuOS aims to create a fun, personal gaming experience that feels like more than just a traditional desktop launcher.
 
-## How to Run BuuOS
+🌟 **The vision for BuuOS**
+- 🎮 **Gaming Hub:** Organise your games and explore different console libraries.
+- 👾 **Buus:** Create and customise your own characters.
+- 🌐 **BuuNet:** Connect with other players through communities and social features.
+- 🏠 **Home Menu:** Enjoy a console-inspired interface with customisation and personality.
 
-1. **Extract the files.** Unzip the `BuuOS Files` archive to a folder on your computer.
-2. **Open the BuuOS folder.** Navigate to `BuuOS` and then open the `Home Menu` folder.
-3. **Launch BuuOS.** Double-click `HomeMenu.exe` to start the Home Menu.
+BuuOS is an evolving project built around creativity, nostalgia, and the idea of making your desktop feel like your own gaming world.
 
-**Example path:** `Downloads\BuuOS\BuuOS\Home Menu\HomeMenu.exe`
-
-This is one of the first builds ever made, so if you encounter any bugs please let me know.
-
-Thanks for downloading and enjoy exploring BuuOS!
-
--Kh4bbaz
-
-Official Website as of now:
-buuhub.isaiahk545.workers.dev
+**Version:** 1.0.4
+**Platform:** Windows
